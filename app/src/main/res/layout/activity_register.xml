@@ -5,14 +5,14 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".Login"
-    android:background="@drawable/bg3">
+    android:background="@drawable/bg4">
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/register"
         android:text="Register"
         android:inputType="textEmailAddress"
-        android:textColor="@color/purple_500"
+        android:textColor="@color/white"
         android:textStyle="bold"
         android:textSize="30dp"
         android:layout_margin="50dp"
